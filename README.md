@@ -7,7 +7,7 @@
 [Blender](https://www.blender.org/)
 
 ### Shortcuts
-[Click Here](https://github.com/lehugosan/COMM/tree/main/Shortcuts)
+[Click Here](https://github.com/lehugosan/LIM/tree/main/Shortcuts)
 
 ### Tutorials/YT
 - [BlenderGuru](https://www.youtube.com/@blenderguru)
